@@ -13,4 +13,3 @@ Advertise my bot here.
 # cuz y not
 # Annoucements
 I just added some games in there. lol 
-# How to use?
