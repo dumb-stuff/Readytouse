@@ -27,7 +27,9 @@ setup(
     install_requires=["discord", "discord-ext-alternatives","aiofiles","asyncio","youtube_dl","functools","itertools"],
     entry_points={
         "console_scripts": [
-            "realpython=reader.__main__:startthebot",
+            "realpython=reader.__main__:startthebot"
         ]
+    include_package_data=True
+
     },
 )
